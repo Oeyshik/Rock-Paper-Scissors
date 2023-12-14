@@ -1,7 +1,7 @@
 # Rock Paper Scissors
+### This repository houses an interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript—a fun way to enjoy classic gaming!
 
 ![Rock Paper Scissor Preview](https://drive.google.com/uc?id=1VKgjTgPN8tf9Dd0tGpUUiiMhOg8ocvBy)
-This repository houses an interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript—a fun way to enjoy classic gaming!
 
 ## Features
 
