@@ -48,6 +48,10 @@
     margin-top: 3rem;
     gap: 5rem;
   }
+
+  link[rel="icon"] {
+    border-radius: 50%;
+  }
   
   #user-score,
   #comp-score {
